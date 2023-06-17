@@ -4,7 +4,7 @@ Simple Character Diff Tool in Dart. Heavily inspired by [tsoding/piff](https://g
 ## Quick start
 ```console
 $ ddiff foo bar
-$ foobar
+foobar
 ```
 
 
